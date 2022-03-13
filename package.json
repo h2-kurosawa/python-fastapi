@@ -1,0 +1,12 @@
+{
+	"name": "python-fastapi",
+	"version": "1.0.0",
+	"description": "for tutorial",
+	"main": "main.py",
+	"repository": "git@github.com:h2-kurosawa/python-fastapi.git",
+	"author": "h2-kurosawa",
+	"license": "MIT",
+	"dependencies": {
+		"fastapi": "^0.0.8"
+	}
+}
